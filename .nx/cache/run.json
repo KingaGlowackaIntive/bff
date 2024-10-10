@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build lambdas",
+    "startTime": "2024-09-04T13:15:44.090Z",
+    "endTime": "2024-09-04T13:15:44.857Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "lambdas:build",
+      "target": "build",
+      "projectName": "lambdas",
+      "hash": "11849259051384415954",
+      "startTime": "2024-09-04T13:15:44.094Z",
+      "endTime": "2024-09-04T13:15:44.857Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

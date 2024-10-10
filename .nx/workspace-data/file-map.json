@@ -1,0 +1,53 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.6.2",
+  "deps": {
+    "nx": "^19.6.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "package.json",
+        "hash": "1829469546588706387"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "3009140142791806673"
+      },
+      {
+        "file": "README.md",
+        "hash": "862967875273581864"
+      },
+      {
+        "file": "nx.json",
+        "hash": "8129096877319850560"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "15760106373103970941"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "15068071380531678201"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "11406412648127295871"
+      }
+    ],
+    "projectFileMap": {
+      "lambdas": [
+        {
+          "file": "packages/lambdas/package.json",
+          "hash": "4323589836081138843"
+        },
+        {
+          "file": "packages/lambdas/tsconfig.json",
+          "hash": "11752303486256164328"
+        }
+      ]
+    }
+  }
+}
